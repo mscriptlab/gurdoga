@@ -1,0 +1,4 @@
+[2026-08-31T13:48:01+03:00] TO=info@zoentekstil.com SUBJECT=[Zoen] Quote request from Test AJAX
+----------------------------------------
+<h2>Quote request #1</h2><table cellpadding="6"><tr><td><b>Name</b></td><td>Test AJAX</td></tr><tr><td><b>Company</b></td><td></td></tr><tr><td><b>Email</b></td><td>a@b.com</td></tr><tr><td><b>Phone</b></td><td></td></tr><tr><td><b>Country</b></td><td></td></tr><tr><td><b>Product</b></td><td>BAT-001</td></tr><tr><td><b>Locale</b></td><td>tr</td></tr></table><p>Merhaba, 5000 adet havlu icin teklif istiyorum lutfen</p>
+
